@@ -1,0 +1,27 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="Lazada Automation Solution" bundleable="false">
+    <folder name="Integration" bundleable="false">
+      <file name="Integration_Restlet.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="integration_constants.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="jsonpath-0.8.0.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    </folder>
+    <folder name="PO Solution" bundleable="false">
+      <file name="Transaction_General_Restlet.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="lazada_consignment_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="lazada_consignment_processing_ue.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="lazada_netsuite_constants.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="lazada_po_processing_ue.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+      <file name="lazada_po_trans_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    </folder>
+    <file name="Lazada_po_itemreceipt_rest_ue.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="Lazada_po_itemreceipt_restlet.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="Transaction_General_Restlet.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jld_accounts_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jld_logistics_provider_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jld_payment_method_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jld_so_processing_ue.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jld_transaction_dao.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="jsonpath-0.8.0.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+    <file name="lazada_netsuite_constants.js" bundleable="false" hideInBundle="false" isOnline="false"/>
+  </folder>
+</project>
